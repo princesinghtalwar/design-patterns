@@ -1,0 +1,6 @@
+package com.design_pattern.abstract_factory.global_car_manufacturing;
+
+//ABSTRACT PRODUCT
+public interface Car {
+    void assemble();
+}
