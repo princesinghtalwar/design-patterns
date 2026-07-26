@@ -1,6 +1,6 @@
 package com.design_pattern.abstract_factory.global_car_manufacturing;
 
-//Client Code
+//GUIApplication Code
 public class CarFactoryClient {
     public static void main(String[] args) {
         //Create Cars for North America
